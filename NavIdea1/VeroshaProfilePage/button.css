@@ -1,0 +1,55 @@
+.btn1 button{
+  background:#ff6666;
+  width:100px;
+  height:40px;
+  border:0px;
+  color:white;
+  border-bottom:4px solid #FF5252;
+  border-radius:2px;
+  font-size:20px;
+  text-shadow:1px #FF5252;
+  text-transform:uppercase;
+}
+.btn1 button:hover{
+  background:#FF5252;
+}
+.btn3 button{
+  background:#47AAEB;
+  width:100px;
+  height:40px;
+  border:0px;
+  color:white;
+  border-bottom:4px solid #3C97D4;
+  border-radius:10px;
+  font-size:20px;
+  text-shadow:1px #3C97D4;
+  text-transform:uppercase;
+}
+.btn4 button{
+  background:white;
+  width:100px;
+  height:40px;
+  border:0px;
+  color:#ccc;
+  border:2px solid #3C97D4;
+  border-radius:10px;
+  font-size:20px;
+  text-shadow:1px #3C97D4;
+  text-transform:uppercase;
+}
+.btn2 button{
+  background:black;
+  opacity: 0.8;
+  width:200px;
+  height:40px;
+  border:0px;
+  color:white;
+  border:2px solid black;
+  border-radius:2px;
+  font-size:18px;
+  text-transform:uppercase;
+}
+.btn2 button:hover{
+  opacity: 1.0;
+
+}
